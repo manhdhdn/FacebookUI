@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- colors code we are using in this project -->
+    <color name="color_primary">#3b5998</color>
+    <color name="color_primary_light">#8b9dc3</color>
+    <color name="color_accent_dark">#dfe3ee</color>
+    <color name="color_accent">#f7f7f7</color>
+    <color name="color_accent_light">#ffffff</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
